@@ -1,3 +1,5 @@
+package pl.aifer.game.character;
+
 public class Barrack {
     public static Hero[] createArmy() {
         Magic magic = createMagic("CURSE");

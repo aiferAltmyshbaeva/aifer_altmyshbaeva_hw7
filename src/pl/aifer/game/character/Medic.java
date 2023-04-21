@@ -1,3 +1,5 @@
+package pl.aifer.game.character;
+
 public class Medic extends Hero {
     private int healPoints;
 
